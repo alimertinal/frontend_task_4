@@ -1,0 +1,100 @@
+
+.buttons__small .btn-primary{
+    padding: 9px 17px 9px 17px;
+    margin:36px 36px 10px;
+    background-color: #4F46E5;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    border-color: #4F46E5;
+}
+.buttons__middle .btn-primary{
+    margin:36px 36px 10px;
+    padding: 9px 17px 9px 15px;
+    background-color: #4F46E5;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    width: 300px;
+    border-color: #4F46E5;
+}
+.buttons__large .btn-primary{
+    margin:36px 36px 10px;
+    padding: 9px 17px 9px 15px;
+    background-color: #4F46E5;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    width: 639px;
+    border-color: #4F46E5;
+}
+.large_button .btn-primary{
+    margin:36px 36px 10px;
+    padding: 9px 17px 9px 15px;
+    background-color: #4F46E5;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    width: 639px;
+    border-color: #4F46E5;
+}
+
+.buttons__light--small .btn-primary{
+    padding: 9px 17px 9px 15px;
+    background: #EEF2FF;
+    border-color: #EEF2FF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    color: #4338CA;
+    margin:36px 36px 10px;
+    width: 135px;
+
+}
+.buttons__light--mid .btn-primary{
+    padding: 9px 17px 9px 15px;
+    background: #EEF2FF;
+    border-color: #EEF2FF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    color: #4338CA;
+    margin:36px 36px 10px;
+    width: 300px;
+}
+.buttons__light--lg .btn-primary{
+    padding: 9px 17px 9px 15px;
+    background: #EEF2FF;
+    border-color: #EEF2FF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+    color: #4338CA;
+    margin:36px 36px 10px;
+    width: 639px;
+}
+
+/* inputs */
+.inputs__lg, .inputs__small{
+    margin:36px 36px 10px;
+
+}
+
+.inputs__small .form-control{
+    
+    padding: 9px 13px;
+
+width: 216px;
+background: #FFFFFF;
+border: 1px solid #D1D5DB;
+box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+border-radius: 6px;
+
+
+}
+
+.inputs__lg .form-control{
+    padding: 9px 13px;
+    width: 639px;
+    background: #FFFFFF;
+    border: 1px solid #D1D5DB;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+
+
+
